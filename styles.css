@@ -24,7 +24,7 @@ body {
 }
 
 .card {
-    background-color: #f2f1ed;
+    background-color: #4e1c17dd;
     border-radius: 12px;
     padding: 40px 32px;
     width: 320px;
@@ -34,13 +34,13 @@ body {
 .card-title {
     font-size: 32px;
     font-weight: 600;
-    color: #333;
+    color: #fffdfd;
     margin-bottom: 8px;
 }
 
 .card-price {
     font-size: 20px;
-    color: #666;
+    color: #cfcfcf;
     margin-bottom: 24px;
 }
 
@@ -50,7 +50,7 @@ body {
 
 .includes-text {
     font-size: 16px;
-    color: #333;
+    color: #f7eeee;
     margin-bottom: 16px;
 }
 
@@ -64,11 +64,11 @@ body {
     align-items: center;
     margin-bottom: 12px;
     font-size: 15px;
-    color: #333;
+    color: #fcf5f5;
 }
 
 .checkmark {
-    color: #4a4a4a;
+    color: #fafefa;
     font-size: 18px;
     margin-right: 12px;
     font-weight: bold;
@@ -88,9 +88,9 @@ body {
 }
 
 .download-button:hover {
-    background-color: #D8D6CE;
+    background-color: #fbf0c3;
 }
 
 .download-button:active {
-    background-color: #D8D6CE;
+    background-color: #fff5cf;
 }
